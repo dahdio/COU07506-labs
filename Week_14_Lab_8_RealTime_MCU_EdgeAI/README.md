@@ -1,4 +1,4 @@
-# Week 14 — Lab 8: Real-Time DSP on a Microcontroller and Edge AI
+# Week 14 - Lab 8: Real-Time DSP on a Microcontroller and Edge AI
 
 * **Handout Reference:** Unit 6 (§6.1–6.7; Listings 6.1–6.3; Examples 6.1–6.3)
 * **Expected Deliverable:** `COU07506_Week14_250242485225.ipynb`

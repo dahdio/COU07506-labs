@@ -1,4 +1,4 @@
-# Week 3 — Lab 1B: Convolution, Correlation and Difference Equations
+# Week 3 - Lab 1B: Convolution, Correlation and Difference Equations
 
 * **Handout Reference:** Unit 1 (§1.3–1.9; Listings 1.4–1.7; Examples 1.9–1.10)
 * **Expected Deliverable:** `COU07506_Week03_250242485225.ipynb`

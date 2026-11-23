@@ -1,4 +1,4 @@
-# Week 5 — Lab 2: Implementing the FFT
+# Week 5 - Lab 2: Implementing the FFT
 
 * **Handout Reference:** Unit 2 (§2.5–2.7; Listings 2.2–2.4; Examples 2.8–2.10)
 * **Expected Deliverable:** `COU07506_Week05_250242485225.ipynb`

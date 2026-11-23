@@ -1,4 +1,4 @@
-# Week 11 — Lab 6B: Adaptive Noise Cancellation with LMS and NLMS
+# Week 11 - Lab 6B: Adaptive Noise Cancellation with LMS and NLMS
 
 * **Handout Reference:** Unit 4 (§4.7; Listing 4.4; Example 4.5)
 * **Expected Deliverable:** `COU07506_Week11_250242485225.ipynb`

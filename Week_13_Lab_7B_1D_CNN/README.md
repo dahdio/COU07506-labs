@@ -1,4 +1,4 @@
-# Week 13 — Lab 7B: A 1-D Convolutional Neural Network
+# Week 13 - Lab 7B: A 1-D Convolutional Neural Network
 
 * **Handout Reference:** Unit 5 (§5.5–5.6; Listing 5.4; Example 5.4)
 * **Expected Deliverable:** `COU07506_Week13_250242485225.ipynb`

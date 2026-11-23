@@ -1,4 +1,4 @@
-# Week 2 — Lab 1A: Sampling, Aliasing and Quantization
+# Week 2 - Lab 1A: Sampling, Aliasing and Quantization
 
 * **Handout Reference:** Unit 1 (§1.2; Listings 1.1–1.2; Example 1.1)
 * **Expected Deliverable:** `COU07506_Week02_250242485225.ipynb`

@@ -1,4 +1,4 @@
-# Week 7 — Lab 4A: FIR Filter Design
+# Week 7 - Lab 4A: FIR Filter Design
 
 * **Handout Reference:** Unit 3 (§3.1–3.4; Listings 3.1–3.2; Examples 3.3–3.4)
 * **Expected Deliverable:** `COU07506_Week07_250242485225.ipynb`

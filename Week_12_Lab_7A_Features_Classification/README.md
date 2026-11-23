@@ -1,4 +1,4 @@
-# Week 12 — Lab 7A: Feature Extraction and Classification
+# Week 12 - Lab 7A: Feature Extraction and Classification
 
 * **Handout Reference:** Unit 5 (§5.1–5.4; Listings 5.1–5.3; Examples 5.1–5.3)
 * **Expected Deliverable:** `COU07506_Week12_250242485225.ipynb`

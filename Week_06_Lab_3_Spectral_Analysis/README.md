@@ -1,4 +1,4 @@
-# Week 6 — Lab 3: Spectral Analysis of Real Signals
+# Week 6 - Lab 3: Spectral Analysis of Real Signals
 
 * **Handout Reference:** Unit 2 (§2.8; Listings 2.5–2.7)
 * **Expected Deliverable:** `COU07506_Week06_250242485225.ipynb`

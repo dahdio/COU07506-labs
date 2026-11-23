@@ -1,4 +1,4 @@
-# Week 8 — Lab 4B: IIR Filter Design and ECG Cleaning
+# Week 8 - Lab 4B: IIR Filter Design and ECG Cleaning
 
 * **Handout Reference:** Unit 3 (§3.5–3.6; Listings 3.3–3.4; Examples 3.5–3.7)
 * **Expected Deliverable:** `COU07506_Week08_250242485225.ipynb`

@@ -1,4 +1,4 @@
-# Week 9 — Lab 5: Filter Structures and Finite Word Length
+# Week 9 - Lab 5: Filter Structures and Finite Word Length
 
 * **Handout Reference:** Unit 3 (§3.7–3.8; Listing 3.5; Example 3.8)
 * **Expected Deliverable:** `COU07506_Week09_250242485225.ipynb`

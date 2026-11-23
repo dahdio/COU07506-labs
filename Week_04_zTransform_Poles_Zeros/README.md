@@ -1,4 +1,4 @@
-# Week 4 — z-Transform Laboratory: Poles, Zeros and Stability
+# Week 4 - z-Transform Laboratory: Poles, Zeros and Stability
 
 * **Handout Reference:** Unit 2 (§2.2–2.4; Listing 2.1; Examples 2.2–2.5)
 * **Expected Deliverable:** `COU07506_Week04_250242485225.ipynb`
