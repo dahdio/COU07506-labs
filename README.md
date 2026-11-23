@@ -15,7 +15,7 @@
 | **Student Name** | DAUD SELEMANI DAUD |
 | **Registration Number** | `250242485225` |
 | **Class** | `BENG24COE-2` |
-| **Group** | `Group 29` |
+| **Group** | `Group 29` (1. Goodluck Emilian Luselo, 2. Adinan Athuman Senzota, 3. Frank Herman Kaembesi, 4. Daud Selemani Daud, 5. Aron Julius Ngowi) |
 | **Repository URL** | [https://github.com/dahdio/COU07506-labs.git](https://github.com/dahdio/COU07506-labs.git) |
 
 ---
