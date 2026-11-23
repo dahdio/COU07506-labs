@@ -15,6 +15,7 @@
 | **Student Name** | DAUD SELEMANI DAUD |
 | **Registration Number** | `250242485225` |
 | **Class** | `BENG24COE-2` |
+| **Group** | `Group 29` |
 | **Repository URL** | [https://github.com/dahdio/COU07506-labs.git](https://github.com/dahdio/COU07506-labs.git) |
 
 ---

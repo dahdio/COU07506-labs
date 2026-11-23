@@ -3,6 +3,7 @@
 **Student Name:** DAUD SELEMANI DAUD  
 **Registration No.:** `250242485225`  
 **Class:** `BENG24COE-2`  
+**Group:** `Group 29`  
 **Academic Year:** 2026/27, Semester I  
 **Lecturer:** Dr. Haji Fimbombaya  
 
