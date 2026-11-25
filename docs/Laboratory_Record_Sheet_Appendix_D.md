@@ -10,9 +10,9 @@
 | Week | Laboratory Activity | Folder | Deliverable Notebook | Checkpoint Status | Submitted (Date) | Mark (/10) |
 | :---: | :--- | :--- | :--- | :---: | :---: | :---: |
 | **1** | **Lab 0: Setting Up the DSP Laboratory** | [`Week_01_Lab_0_Setup`](../Week_01_Lab_0_Setup/) | `COU07506_Week01_250242485225.ipynb` | Completed | 2026-11-23 | - *(Required, not marked)* |
-| **2** | **Lab 1A: Sampling, Aliasing and Quantization** | [`Week_02_Lab_1A_Sampling_Quantization`](../Week_02_Lab_1A_Sampling_Quantization/) | `COU07506_Week02_250242485225.ipynb` | Pending | - | /10 |
-| **3** | **Lab 1B: Convolution, Correlation and Difference Equations** | [`Week_03_Lab_1B_Convolution_Correlation`](../Week_03_Lab_1B_Convolution_Correlation/) | `COU07506_Week03_250242485225.ipynb` | Pending | - | /10 |
-| **4** | **z-Transform Laboratory: Poles, Zeros and Stability** | [`Week_04_zTransform_Poles_Zeros`](../Week_04_zTransform_Poles_Zeros/) | `COU07506_Week04_250242485225.ipynb` | Pending | - | /10 |
+| **2** | **Lab 1A: Sampling, Aliasing and Quantization** | [`Week_02_Lab_1A_Sampling_Quantization`](../Week_02_Lab_1A_Sampling_Quantization/) | `COU07506_Week02_250242485225.ipynb` | Completed | 2026-11-25 | /10 |
+| **3** | **Lab 1B: Convolution, Correlation and Difference Equations** | [`Week_03_Lab_1B_Convolution_Correlation`](../Week_03_Lab_1B_Convolution_Correlation/) | `COU07506_Week03_250242485225.ipynb` | Completed | 2026-11-25 | /10 |
+| **4** | **z-Transform Laboratory: Poles, Zeros and Stability** | [`Week_04_zTransform_Poles_Zeros`](../Week_04_zTransform_Poles_Zeros/) | `COU07506_Week04_250242485225.ipynb` | Completed | 2026-11-25 | /10 |
 | **5** | **Lab 2: Implementing the FFT** | [`Week_05_Lab_2_FFT`](../Week_05_Lab_2_FFT/) | `COU07506_Week05_250242485225.ipynb` | Pending | - | /10 |
 | **6** | **Lab 3: Spectral Analysis of Real Signals** | [`Week_06_Lab_3_Spectral_Analysis`](../Week_06_Lab_3_Spectral_Analysis/) | `COU07506_Week06_250242485225.ipynb` | Pending | - | /10 |
 | **7** | **Lab 4A: FIR Filter Design** | [`Week_07_Lab_4A_FIR_Design`](../Week_07_Lab_4A_FIR_Design/) | `COU07506_Week07_250242485225.ipynb` | Pending | - | /10 |

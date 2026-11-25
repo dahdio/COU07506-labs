@@ -5,4 +5,4 @@
 * **Student:** DAUD SELEMANI DAUD (`250242485225`, `BENG24COE-2`)
 
 ## Overview
-Tasks 11.1–11.5: Adaptive system identification, LMS adaptive noise canceller, step-size & filter-length convergence study, and NLMS robustness to signal level jumps.
+Tasks 11.1-11.5: Adaptive system identification, LMS adaptive noise canceller, step-size & filter-length convergence study, and NLMS robustness to signal level jumps.
